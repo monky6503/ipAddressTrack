@@ -43,7 +43,7 @@ onMounted(() => {
 
 <template>
   <div class="h-screen max-h-screen flex flex-col">
-    <div class="bg-hero-pattern relative flex justify-center bg-cover px-4 pt-8 pb-32">
+    <header class="bg-hero-pattern relative flex justify-center bg-cover px-4 pt-8 pb-32">
       <div class="w-full max-w-screen-sm">
         <h1 class="text-white text-center text-3xl pb-4">IP Address Tracker</h1>
         <div class="flex">
@@ -62,8 +62,8 @@ onMounted(() => {
         </div>
       </div>
       <IpInfo v-if="ipInfo" :ipInfo="ipInfo" />
-    </div>
+    </header>
 
-    <div id="map" class="h-full z-10"></div>
+    <main id="map" class="h-full z-10"></main>
   </div>
 </template>

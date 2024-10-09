@@ -8,7 +8,7 @@ defineProps({
 </script>
 
 <template>
-  <div
+  <section
     class="absolute -bottom-64 md:-bottom-16 flex flex-col md:flex-row bg-white gap-x-12 gap-y-4 px-8 pt-8 pb-12 rounded-xl border z-20"
   >
     <div class="flex flex-col items-center md:items-start font-medium">
@@ -27,5 +27,5 @@ defineProps({
       <h3 class="text-xs text-[#969696] mb-2 uppercase">Isp</h3>
       <span class="text-2xl">{{ ipInfo.isp }}</span>
     </div>
-  </div>
+  </section>
 </template>
