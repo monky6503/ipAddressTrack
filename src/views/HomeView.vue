@@ -56,6 +56,7 @@ onMounted(() => {
           <button
             @click="getIpInfo"
             class="bg-black text-white flex items-center px-4 rounded-tr-xl rounded-br-xl cursor-pointer"
+            aria-label="search"
           >
             <i class="fa-solid fa-chevron-right"></i>
           </button>
