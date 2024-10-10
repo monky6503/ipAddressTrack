@@ -40,7 +40,7 @@ Users should be able to:
 
 - [Vue.js](https://vuejs.org/) - JS library
 - [TailwindCss](https://tailwindcss.com/) - CSS framework
-- Vite
+- [Vite](https://vite.dev/) - build tool
 
 ### What I learned
 
