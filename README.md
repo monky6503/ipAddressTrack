@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/monky6503/ipAddressTrack)
-- Live Site URL: [Add live site URL here](https://monky6503.github.io/ipAddressTrack/)
+- Solution URL: [Github-Ip Address Tracker](https://github.com/monky6503/ipAddressTrack)
+- Live Site URL: [Ip Address Tracker](https://monky6503.github.io/ipAddressTrack/)
 
 ## My process
 
